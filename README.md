@@ -1,7 +1,7 @@
 # Test-repository
 This is a test description
 
-# NYT TESTAILLAAn
+# NYT TESTAILLAAN
 
 ## TESTAILLAAN README.md OMINAISUUKSIA
 
