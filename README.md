@@ -13,7 +13,7 @@
 Tämä README.md toimii __*LOISTAVASTI*__.
 
 ##### LISTA :)
-1. First 
-2. Second 
-3. Third 
-4. Fourth 
+1. Eka 
+2. Toka 
+3. Kolmas 
+4. Neljäs 
