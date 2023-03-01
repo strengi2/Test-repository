@@ -12,9 +12,9 @@
 
 Tämä README.md toimii __*LOISTAVASTI*__.
 ##### LISTA 1
-1 TÄMÄ
-2 ON 
-3 TÄRKEÄ
+- TÄMÄ
+- ON 
+- TÄRKEÄ
 
 ##### LISTA 2 :)
 1. **Eka**
@@ -23,8 +23,8 @@ Tämä README.md toimii __*LOISTAVASTI*__.
 4. Neljäs
 
 ##### LISTA 3
-1 HEI 
-2 MOI 
-3 HEI
++ HEI 
++ MOI 
++ HEI
 
 ![The San Juan Mountains are beautiful!](http://www.imgworlds.com/wp-content/uploads/2015/12/18-CONTACTUS-HEADER.jpg "San Juan Mountains")
