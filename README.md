@@ -27,4 +27,4 @@ Tämä README.md toimii __*LOISTAVASTI*__.
 2 MOI 
 3 HEI
 
-![The San Juan Mountains are beautiful!](/https://www.tripadvisor.co.uk/ShowUserReviews-g295424-d10687494-r428807491-IMG_Worlds_of_Adventure-Dubai_Emirate_of_Dubai.html "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://www.tripadvisor.co.uk/ShowUserReviews-g295424-d10687494-r428807491-IMG_Worlds_of_Adventure-Dubai_Emirate_of_Dubai.html "San Juan Mountains")
