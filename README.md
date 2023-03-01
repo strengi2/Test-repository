@@ -27,4 +27,4 @@ Tämä README.md toimii __*LOISTAVASTI*__.
 2 MOI 
 3 HEI
 
-![The San Juan Mountains are beautiful!] [http://www.imgworlds.com/wp-content/uploads/2015/12/18-CONTACTUS-HEADER.jpg]
+![The San Juan Mountains are beautiful!] (http://www.imgworlds.com/wp-content/uploads/2015/12/18-CONTACTUS-HEADER.jpg)
